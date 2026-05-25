@@ -1,3 +1,8 @@
-.venv
-node_modules
-.gitignore
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.vscode/
