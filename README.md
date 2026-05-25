@@ -11,10 +11,3 @@ A high-performance, lightweight Python script designed to monitor cryptocurrency
 ## 🛠️ Tech Stack
 * **Language:** Python 3.9+
 * **Libraries:** `ccxt` (for exchange API integration)
-
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/crypto_anomaly.git](https://github.com/your-username/crypto_anomaly.git)
-   cd crypto_anomaly
